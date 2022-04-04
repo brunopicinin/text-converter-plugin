@@ -1,1 +1,1 @@
-# text-converter-plugin
+# Text converter plugin for Sublime Text

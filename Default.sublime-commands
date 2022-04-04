@@ -1,0 +1,6 @@
+[
+  {
+    "command": "replace_non_ascii_characters",
+    "caption": "TextConverter: Replace Non-ASCII Characters"
+  }
+]
